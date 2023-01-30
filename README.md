@@ -36,12 +36,11 @@ Create a Sample Project
     cd Sample
     dotnet new specflowproject --framework net6.0
     
-    ![](Images/SpecFlowTemplateForVSCode.png)
+    ![](Images/CreateSampleVSCodeProject.png)
     
  2. Open sample project:
  
     code .
     
-    ![](Images/SpecFlowTemplateForVSCode.png)
+    ![](Images/OpenSampleVSCode.png)
     
-    ![](Images/SpecFlowTemplateForVSCode.png)
