@@ -22,7 +22,7 @@ Installation
     ![](Images/CucumberForNETVSCodeExtensions.png)
 4.  Download and install SpecFlow Template by VSCode from NuGet.org:  
       
-    dotnet new --install SpecFlow.Templates.DotNet  
+    \>dotnet new --install SpecFlow.Templates.DotNet  
       
     ![](Images/SpecFlowTemplateForVSCode.png)
     
@@ -32,17 +32,17 @@ Create a Sample Project
 
 1.  Create a sample VSCode project using the "specflowproject" template and .NET 6.0.:
     
-    mkdir Sample
+    \>mkdir Sample
     
-    cd Sample
+    \>cd Sample
     
-    dotnet new specflowproject --framework net6.0
+    \>dotnet new specflowproject --framework net6.0
     
     ![](Images/CreateSampleVSCodeProject.png)
     
  2. Open sample project:
  
-    code .
+    \>code .
     
     ![](Images/OpenSampleVSCode.png)
     
