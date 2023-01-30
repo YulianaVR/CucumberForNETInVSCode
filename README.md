@@ -1,6 +1,3 @@
-# CucumberForNETInVSCode
-   Setting up Cucumber for .NET using Visual Studio Code
-
 Setting up Cucumber for .NET using Visual Studio Code
 =====================================================
 
