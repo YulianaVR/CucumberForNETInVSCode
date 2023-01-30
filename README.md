@@ -19,9 +19,9 @@ Installation
     \- SpecFlow Steps Definition Generator.  
     \- SpecFlow Tools.  
       
-    ![](Images/CucumberForNETVSCodeExtensions.jpg)
+    ![](Images/CucumberForNETVSCodeExtensions.png)
 4.  Download and install SpecFlow Template by VSCode from NuGet.org:  
       
     dotnet new --install SpecFlow.Templates.DotNet  
       
-    ![](Images/SpecFlowTemplateForVSCode.jpg)
+    ![](Images/SpecFlowTemplateForVSCode.png)
