@@ -25,3 +25,23 @@ Installation
     dotnet new --install SpecFlow.Templates.DotNet  
       
     ![](Images/SpecFlowTemplateForVSCode.png)
+    
+    
+Create a Sample Project
+-----------------------
+
+1.  Create a sample VSCode project using the "specflowproject" template and .NET 6.0.:
+    
+    mkdir Sample
+    cd Sample
+    dotnet new specflowproject --framework net6.0
+    
+    ![](Images/SpecFlowTemplateForVSCode.png)
+    
+ 2. Open sample project:
+ 
+    code .
+    
+    ![](Images/SpecFlowTemplateForVSCode.png)
+    
+    ![](Images/SpecFlowTemplateForVSCode.png)
