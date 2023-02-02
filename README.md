@@ -17,7 +17,8 @@ Installation
     \- SpecFlow Tools.  
       
     ![](Images/CucumberForNETVSCodeExtensions.png)
-4.  Download and install SpecFlow Template in VSCode from NuGet.org:  
+    
+4.  Download and install SpecFlow Template in Visual Studio Code from NuGet.org:  
       
     dotnet new --install SpecFlow.Templates.DotNet  
       
