@@ -14,7 +14,7 @@ Installation
     \- Cucumber (Gherkin) Full Support.  
     \- Nuget Gallery.  
     \- SpecFlow Steps Definition Generator.  
-    \- SpecFlow Tools.
+    \- SpecFlow Tools.  
     \- Cucumber. 
       
     ![](Images/CucumberForNETVSCodeExtensions.png)
