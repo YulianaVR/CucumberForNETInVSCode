@@ -14,11 +14,12 @@ Installation
     \- Cucumber (Gherkin) Full Support.  
     \- Nuget Gallery.  
     \- SpecFlow Steps Definition Generator.  
-    \- SpecFlow Tools.  
+    \- SpecFlow Tools.
+    \- Cucumber. 
       
     ![](Images/CucumberForNETVSCodeExtensions.png)
     
-4.  Download and install SpecFlow Template in Visual Studio Code from NuGet.org:  
+5.  Download and install SpecFlow Template in Visual Studio Code from NuGet.org:  
       
     dotnet new --install SpecFlow.Templates.DotNet  
       
