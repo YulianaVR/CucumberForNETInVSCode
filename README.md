@@ -8,8 +8,11 @@ Installation
 2.  Download and install .NET SDK 6.0 and .NET SDK 8.0 ([Linux, Windows, macOS](https://dotnet.microsoft.com/download/dotnet/6.0)).
 3.  Install following extensions in Visual Studio Code:  
     \- C#.
+    
     \- C# Dev Kit.
+    
     \- C# Extensions.
+    
     \- .NET Core Test Explorer.  
     \- .NET Core Tools.
     \- .NET Install Tools.  
