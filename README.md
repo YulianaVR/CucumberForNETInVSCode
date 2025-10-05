@@ -5,17 +5,19 @@ Installation
 ------------
 
 1.  Download and install Visual Studio Code ([Linux](https://code.visualstudio.com/docs/setup/linux) , [macOS](https://code.visualstudio.com/docs/setup/mac) and [Windows](https://code.visualstudio.com/docs/setup/windos)).
-2.  Download and install .NET SDK 6.0 ([Linux, Windows, macOS](https://dotnet.microsoft.com/download/dotnet/6.0)).
+2.  Download and install .NET SDK 6.0 and .NET SDK 8.0 ([Linux, Windows, macOS](https://dotnet.microsoft.com/download/dotnet/6.0)).
 3.  Install following extensions in Visual Studio Code:  
-    \- C# for Visual Studio Code.  
+    \- C#.
+    \- C# Dev Kit.
+    \- C# Extensions.
     \- .NET Core Test Explorer.  
-    \- .NET Core Tools.  
-    \- C# Extensions.  
+    \- .NET Core Tools.
+    \- .NET Install Tools.  
+    \- Cucumber.  
     \- Cucumber (Gherkin) Full Support.  
     \- Nuget Gallery.  
-    \- SpecFlow Steps Definition Generator.  
+    \- Reqnroll/SpecFlow Steps Definition Generator.  
     \- SpecFlow Tools.  
-    \- Cucumber. 
       
     ![](Images/CucumberForNETVSCodeExtensions.png)
     
